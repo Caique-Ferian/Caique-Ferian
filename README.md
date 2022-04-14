@@ -45,7 +45,6 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Ferian&show_icons=true&theme=midnight-purple)
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Ferian&layout=compact)](https://github.com/Caique-Ferian/github-readme-stats)
 
