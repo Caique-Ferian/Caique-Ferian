@@ -52,3 +52,5 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
 
 ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caique-Ferian&repo=github-readme-stats)](https://github.com/Caique-Ferian/github-readme-stats)z
+
