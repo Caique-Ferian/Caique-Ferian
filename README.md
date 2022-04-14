@@ -1,4 +1,14 @@
-### Hi there 👋
+<a href="https://github.com/Caique-Ferian" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/caique-ferian-6a1320153/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
+<br />
+<br />
+
+
 
 <!--
 **Caique-Ferian/Caique-Ferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
