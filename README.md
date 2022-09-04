@@ -12,8 +12,8 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou realizando projetos da **Trybe** e aprofundando em **React/Redux**;
-- 🌱 Estou estudando **SQL**; 
+- 👨🏽‍💻 Estou realizando projetos da **Trybe** e aprofundando em **Node.js**;
+- 🌱 Estou estudando **Deployment**; 
 - 🤔 Meus hobbies são assistir séries e filmes;
 - 💼 Estou procurando sempre conhecimento para evoluir na minha carreira de Dev 💻;
 - 💬 Pergunte-me sobre qualquer coisa, principalmente coisas **nerds** 🤓;
@@ -33,7 +33,11 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" alt="docker" width="40" height="40"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667" alt="mocha" width="40" height="40"/>
 </p>
 
 <p>
