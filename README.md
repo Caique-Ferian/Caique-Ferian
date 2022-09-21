@@ -13,7 +13,7 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Estou realizando projetos da **Trybe** e aprofundando em **TypeScript**;
-- 🌱 Estou estudando **POO e SOLID**; 
+- 🌱 Estou estudando **POO e SOLID** para escrever códigos melhores e mais conciso; 
 - 🤔 Meus hobbies são assistir séries e filmes;
 - 💼 Estou procurando sempre conhecimento para evoluir na minha carreira de Dev 💻;
 - 💬 Pergunte-me sobre qualquer coisa, principalmente coisas **nerds** 🤓;
