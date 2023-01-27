@@ -52,8 +52,13 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
 </p>
   
 **Certificados:** 
-  
+ 
+<a href="https://www.credential.net/4393523f-fee2-4e18-a4be-239990cf7957#gs.ocz2re" target="_blank">
+  <img src="https://www.svgrepo.com/show/169718/coding.svg" width="48px" height="48px">
 </a>
+<a href="https://www.credential.net/bd1520b6-b272-4220-a8b8-115c6fdc93d0#gs.jjnued" target="_blank">
+  <img src="https://www.svgrepo.com/show/271564/coding.svg" width="48px" height="48px">
+</a>    
 <a href="https://www.credential.net/5d02f7c3-3146-442b-b671-c800f4f75aa8#gs.octw58" target="_blank">
   <img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px">
 </a> 
