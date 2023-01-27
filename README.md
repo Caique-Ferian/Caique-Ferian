@@ -41,6 +41,7 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="nestjs" width="40" height="40"/>
 
 </p>
 
