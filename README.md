@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <a href="https://www.credential.net/5d02f7c3-3146-442b-b671-c800f4f75aa8#gs.octw58" target="_blank">
-  <img src="https://thenounproject.com/api/private/icons/5337188/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABj1CXeWUGac26WF8hm8AM_PxOc4qHQCj8RkoVjHM6nMvR0xOV2yC3zdA6YbQhaFhZDb6TbgQmzpgt5IBUufhAI_0uu9g%3D%3D" width="48px" height="48px">
+  <img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px">
 </a> 
 <br />
 <br />
