@@ -3,10 +3,7 @@
 </a> 
 <a href="https://www.linkedin.com/in/caique-ferian-6a1320153/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://www.credential.net/5d02f7c3-3146-442b-b671-c800f4f75aa8#gs.octw58" target="_blank">
-  <img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px">
-</a> 
+
 <br />
 <br />
 
@@ -53,6 +50,13 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> 
 </p>
+  
+**Certificados:** 
+  
+</a>
+<a href="https://www.credential.net/5d02f7c3-3146-442b-b671-c800f4f75aa8#gs.octw58" target="_blank">
+  <img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px">
+</a> 
 
 <br />
 
