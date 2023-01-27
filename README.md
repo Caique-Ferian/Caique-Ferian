@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou estudante de **Desenvolvimento Web na Trybe**
+Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um **Desenvolvedor Back-end Junior** à procura de emprego
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
