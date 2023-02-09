@@ -58,6 +58,7 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Certificados:  
  
+-----
  
 <a href="https://www.credential.net/4393523f-fee2-4e18-a4be-239990cf7957#gs.ocz2re" target="_blank">
   <img src="https://www.svgrepo.com/show/169718/coding.svg" width="48px" height="48px">
@@ -69,8 +70,7 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   <img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px">
 </a> 
 
-<br />
-<br />
+-----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Ferian&show_icons=true&theme=midnight-purple)
 
