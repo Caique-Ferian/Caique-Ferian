@@ -95,4 +95,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Caique-Ferian" alt="Caique-Ferian" /> </p>
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique) & [João Paulo Aramuni](https://github.com/joaopauloaramuni)
+
