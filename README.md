@@ -96,8 +96,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Caique-Ferian" alt="Caique-Ferian" /> </p>
 
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
-
 
 ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique) & [João Paulo Aramuni](https://github.com/joaopauloaramuni)
 
