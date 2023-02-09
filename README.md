@@ -57,6 +57,7 @@
   <code><img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="nestjs" width="40" height="40"/><b>NestJS</b></code>
   <code><img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="40" height="40"/><b>Sequelize</b></code>
   <code><img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="express" width="40" height="40"/><b>ExpressJS</b></code>
+  <br/>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><b>MYSQL</b></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><b>MongoDB</b></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" alt="docker" width="40" height="40"/><b>Docker</b></code>
