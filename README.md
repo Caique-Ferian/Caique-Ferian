@@ -12,8 +12,9 @@
 
 
 
------  
+-----
   
+<div>  
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
 </div>
