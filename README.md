@@ -6,7 +6,11 @@
 
 -----
 
-Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um **Desenvolvedor Back-end Junior** à procura de emprego
+<div align="justify">
+<i><b>Olá</b> :wave:, Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um **Desenvolvedor Back-end Junior** à procura de emprego.</i>
+</div>
+
+
 
 -----  
   
