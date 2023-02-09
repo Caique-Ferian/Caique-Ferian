@@ -45,8 +45,6 @@
 -----
 
 <div>
-
-<br/>
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:  
 
