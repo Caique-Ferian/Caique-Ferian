@@ -1,3 +1,12 @@
+
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+</div>
+
+-----
+
 <a href="https://github.com/Caique-Ferian" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
