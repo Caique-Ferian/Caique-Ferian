@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://cdn.vectorstock.com/i/1000x1000/81/02/back-end-development-it-header-or-footer-banner-vector-24528102.webp"/>
 </div>
 
 -----
