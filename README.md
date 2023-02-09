@@ -9,6 +9,8 @@
 
 Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um **Desenvolvedor Back-end Junior** à procura de emprego
 
+-----  
+  
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
 </div>
