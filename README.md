@@ -28,7 +28,9 @@
 - 💬 Pergunte-me sobre qualquer coisa, principalmente coisas **nerds** 🤓;
 - 📫 Por favor, envie um email para **caiquegsf@gmail.com** caso queira estabelecer contato 👽.
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
-<br>
+  
+<br/>
+  
 -----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:  
