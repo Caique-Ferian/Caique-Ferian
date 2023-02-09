@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Caique-Ferian/Caique-Ferian/blob/main/img/Captura%20de%20tela%20de%202023-02-09%2015-16-12.png"/>
 </div>
 
 -----
