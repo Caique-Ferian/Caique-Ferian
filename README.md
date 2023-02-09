@@ -4,8 +4,7 @@
 <a href="https://www.linkedin.com/in/caique-ferian-6a1320153/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 
-<br />
-<br />
+-----
 
 Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um **Desenvolvedor Back-end Junior** à procura de emprego
 
