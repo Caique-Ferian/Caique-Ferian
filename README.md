@@ -30,6 +30,7 @@
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
   
 <br/>
+<br/>
   
 -----
 
