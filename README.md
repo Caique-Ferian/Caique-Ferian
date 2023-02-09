@@ -58,8 +58,6 @@ Olá, me chamo **Caique Ferian**, sou de Jacutinga, Minas Gerais, Brasil e atual
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Certificados:  
  
------
- 
 <a href="https://www.credential.net/4393523f-fee2-4e18-a4be-239990cf7957#gs.ocz2re" target="_blank">
   <img src="https://www.svgrepo.com/show/169718/coding.svg" width="48px" height="48px">
 </a>
