@@ -16,7 +16,7 @@
 -----
 
 <div align="justify">
-  <i><b>Olá</b> :wave:, me chamo <b>Caique Ferian</b>, sou de Jacutinga, Minas Gerais, Brasil e atualmente sou um <b>Desenvolvedor Back-end Junior</b> à procura de emprego.</i>
+  <i><b>Olá</b> :wave:, me chamo <b>Caique Ferian</b>, sou de Itapira, São Paulo, Brasil e atualmente sou um <b>Desenvolvedor Back-end Junior</b> à procura de emprego.</i>
 </div>
 
 
