@@ -30,13 +30,13 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:  
   
-- 👨🏽‍💻 Estou realizando projetos da **Trybe** e aprofundando em **Python**;
-- 🌱 Estou estudando **Algortimos** para aprender maneiras de criar algoritmos mais performáticos e nas horas vagas **Nest.js** para criar API's em microsserviços com essa framework maravilhosa; 
+- 👨🏽‍💻 Estou realizando projetos da **criados por mim** para aprofundando em **NestJS** e **React TS**;
+- 🌱 Estou estudando **Java**; 
 - 🤔 Meus hobbies são assistir séries e filmes;
 - 💼 Estou procurando sempre conhecimento para evoluir na minha carreira de Dev 💻;
 - 💬 Pergunte-me sobre qualquer coisa, principalmente coisas **nerds** 🤓;
 - 📫 Por favor, envie um email para **caiquegsf@gmail.com** caso queira estabelecer contato 👽.
-<!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
+- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/caique-ferian/resume" target="_blank">clicando aqui</a> para mais informações.
   
 <br/>
 <br/>
