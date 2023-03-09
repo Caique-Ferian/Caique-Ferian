@@ -87,7 +87,9 @@
 <a href="https://www.credential.net/5d02f7c3-3146-442b-b671-c800f4f75aa8#gs.octw58" target="_blank">
   <code><img src="https://pic.onlinewebfonts.com/svg/img_544508.png" width="48px" height="48px"><b>Back-end</b></code>
 </a> 
-
+<a href="https://www.credential.net/ae1eca76-0bd1-4505-a69a-2aec9ff56873#gs.s4n89w" target="_blank">
+  <code><img src="https://www.uece.br/uecevest/wp-content/uploads/sites/100/2012/12/ciencia-da-computacao-600x571.jpg" width="48px" height="48px"><b>Ciência da computação</b></code>
+</a> 
 </div>
   
 -----
