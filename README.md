@@ -30,7 +30,7 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:  
   
-- 👨🏽‍💻 Estou realizando projetos da **criados por mim** para aprofundando em **NestJS** e **React TS**;
+- 👨🏽‍💻 Estou realizando projetos **criados por mim** para aprofundando em **NestJS** e **React TS**;
 - 🌱 Estou estudando **Django Python**; 
 - 🤔 Meus hobbies são assistir séries e filmes;
 - 💼 Estou procurando sempre conhecimento para evoluir na minha carreira de Dev 💻;
