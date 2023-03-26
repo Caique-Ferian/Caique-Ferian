@@ -90,6 +90,9 @@
 <a href="https://www.credential.net/ae1eca76-0bd1-4505-a69a-2aec9ff56873#gs.s4n89w" target="_blank">
   <code><img src="https://cdn-icons-png.flaticon.com/512/2845/2845769.png" width="48px" height="48px"><b>Ciência da computação</b></code>
 </a> 
+<a href="https://www.credential.net/45abea10-1459-4911-b489-cf6f6ccb009c" target="_blank">
+  <code><img src="https://www.swagencia.com.br/wp-content/uploads/2015/09/desenvolvimento-web-servicos1.jpg" width="48px" height="48px"><b>Formação Desenvolvimento Web</b></code>
+</a> 
 </div>
   
 -----
